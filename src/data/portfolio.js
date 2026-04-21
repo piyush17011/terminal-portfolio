@@ -9,11 +9,8 @@ export const portfolioData = {
   cvUrl: "/resume.pdf", // ← drop your resume.pdf in /public folder
 
   about: `I'm a Full Stack Developer who loves building products from the ground up.
-I thrive at the intersection of clean architecture and great user experience.
-From crafting REST APIs and microservices to pixel-perfect frontends —
-I bring ideas to life, end to end.
-
-Always learning. Always shipping.`,
+         I bring ideas to life, end to end.
+         Always learning. Always shipping.`,
 
   skills: {
     frontend: ["React", "HTML/CSS","Java"],
