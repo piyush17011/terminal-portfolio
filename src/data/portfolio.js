@@ -5,7 +5,7 @@ export const portfolioData = {
   email: "piyushbhalwalkar01@gmail.com",
   github: "https://github.com/piyush17011",
   githubUsername: "piyush17011", // ← used for live GitHub API calls
-  windowsPortfolio: "https://piyushportfolio17.netlify.app/",
+  windowsPortfolio: "https://piyush17gui.netlify.app/",
   cvUrl: "/resume.pdf", // ← drop your resume.pdf in /public folder
 
   about: `I'm a Full Stack Developer who loves building products from the ground up.
