@@ -16,8 +16,8 @@ I bring ideas to life, end to end.
 Always learning. Always shipping.`,
 
   skills: {
-    frontend: ["React", "Tailwind CSS"],
-    backend: ["Node.js", "Express", "Python","REST APIs"],
+    frontend: ["React", "HTML/CSS","Java"],
+    backend: ["Node.js", "Express", "Python","REST APIs","WebSockets"],
     database: ["MongoDB", "MySQL"],
     devops: ["Git", "AWS", "CI/CD", "Docker", "Linux"],
     tools: ["Figma", "Postman", "VS Code"],
