@@ -5,7 +5,6 @@ export const portfolioData = {
   email: "piyushbhalwalkar01@gmail.com",
   github: "https://github.com/piyush17011",
   githubUsername: "piyush17011", // ← used for live GitHub API calls
-  linkedin: "https://linkedin.com/in/piyushbhalwalkar",
   windowsPortfolio: "https://piyushportfolio17.netlify.app/",
   cvUrl: "/resume.pdf", // ← drop your resume.pdf in /public folder
 
@@ -26,31 +25,38 @@ Always learning. Always shipping.`,
 
   projects: [
     {
-      name: "ProjectAlpha",
-      tech: "React · Node.js · PostgreSQL",
-      desc: "A full-stack SaaS dashboard with real-time analytics and role-based access control.",
-      github: "https://github.com/piyush/project-alpha",
-      live: "https://project-alpha.vercel.app",
+      name: "SHOELIFY",
+      tech: "React · Node.js · Express.js · MongoDB",
+      desc: "A full-stack ecommerce site for sneaker heads.",
+      github: "https://github.com/piyush17011/SSHOPLIFY",
+      live: "https://shoelify.onrender.com/",
     },
     {
-      name: "ShopEngine",
-      tech: "Next.js · Django · Redis",
-      desc: "High-performance e-commerce engine handling 10k+ concurrent users with sub-100ms response times.",
-      github: "https://github.com/piyush/shop-engine",
-      live: "https://shopengine.vercel.app",
+      name: "XO",
+      tech: "Node.js · Express.js · WebSockets",
+      desc: "A live multiplayer miniproject built for understanding of how socket works - TicTacToe Game",
+      github: "https://github.com/piyush17011/XO",
+      live: "https://xo-ztjb.onrender.com/",
     },
     {
-      name: "DevFlow",
-      tech: "React · GraphQL · MongoDB",
-      desc: "Collaborative developer workflow tool with live code sharing, task tracking, and PR integrations.",
-      github: "https://github.com/piyush/devflow",
-      live: null,
+      name: "RTSLD - Real Time Sign Language Detection System",
+      tech: "Node.js · Express.js · Python · WebRTC · WebSockets · Machine Learning",
+      desc: "A video calling platform for deaf-dumb,on which they can communicate using sign language generating live captions",
+      github: "https://github.com/piyush17011/RealTimeWorkingMain",
+      live: "https://rtsld.onrender.com",
     },
     {
-      name: "APIForge",
-      tech: "Node.js · Docker · AWS",
-      desc: "API scaffolding CLI that generates production-ready Express boilerplate in seconds.",
-      github: "https://github.com/piyush/apiforge",
+      name: "Animator's Portfolio",
+      tech: "React.js · 3D Model Rendering",
+      desc: "A portfolio website built for a client with 3D model rendering.",
+      github: "https://github.com/piyush17011/animator-portfolio",
+      live: "https://omkar-bane.vercel.app/",
+    },
+    {
+      name: "Kisaan Saathi",
+      tech: "React Native.js · Python · MySQL · Gemini API",
+      desc: "An AI-assistant based android app for indian farmers with weather api and live current market price of crops.",
+      github: "https://github.com/piyush17011/ks",
       live: null,
     },
   ],
@@ -99,7 +105,7 @@ Always learning. Always shipping.`,
   contact: {
     email: "piyushbhalwalkar01@gmail.com",
     github: "github.com/piyush17011",
-    linkedin: "linkedin.com/in/piyushbhalwalkar",
+    phone : "+91 9082420911"
   },
 };
 
