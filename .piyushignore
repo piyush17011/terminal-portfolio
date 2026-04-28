@@ -1,0 +1,44 @@
+# .piyushignore — files and folders to exclude from context.md
+# Syntax is the same as .gitignore
+
+# Dependencies
+node_modules/
+.pnp/
+.pnp.js
+piyush17/
+piyushai/
+# Build outputs
+dist/
+build/
+out/
+.next/
+.nuxt/
+.cache/
+
+# Logs & lock files
+*.log
+*.lock
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Environment & secrets
+.env
+.env.*
+*.pem
+*.key
+
+# Version control
+.git/
+
+# Coverage & test artifacts
+coverage/
+.nyc_output/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
