@@ -53,7 +53,7 @@ export const portfolioData = {
       name: "Kisaan Saathi",
       tech: "React Native.js · Python · MySQL · Gemini API",
       desc: "An AI-assistant based web app for indian farmers with weather api and ai recommendations and advice.",
-      github: "https://github.com/piyush17011/ksaathi",
+      github: "https://github.com/piyush17011/kisaan-saathi",
       live: "https://ksaathi.onrender.com",
     },
      {
