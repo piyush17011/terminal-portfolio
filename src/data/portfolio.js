@@ -22,11 +22,11 @@ export const portfolioData = {
 
   projects: [
     {
-      name: "SHOELIFY",
+      name: "SHUZ",
       tech: "React · Node.js · Express.js · MongoDB",
       desc: "A full-stack ecommerce site for sneaker heads.",
       github: "https://github.com/piyush17011/SSHOPLIFY",
-      live: "https://shoelify.onrender.com/",
+      live: "https://shuz.onrender.com/",
     },
     {
       name: "XO",
@@ -52,9 +52,9 @@ export const portfolioData = {
     {
       name: "Kisaan Saathi",
       tech: "React Native.js · Python · MySQL · Gemini API",
-      desc: "An AI-assistant based android app for indian farmers with weather api and live current market price of crops.",
-      github: "https://github.com/piyush17011/ks",
-      live: null,
+      desc: "An AI-assistant based web app for indian farmers with weather api and ai recommendations and advice.",
+      github: "https://github.com/piyush17011/ksaathi",
+      live: "https://ksaathi.onrender.com",
     },
      {
       name : "NPM packages : piyush17, piyushai",
